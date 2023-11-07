@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(blue,aqua);
+}
+h1{
+    width: 100%;
+    background-color: magenta;
+}
+span{
+    color: rgb(21, 201, 153);
+}
+h3{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
